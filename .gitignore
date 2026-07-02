@@ -5,3 +5,4 @@ database/
 *.pyc
 .vscode/
 .idea/
+data/
