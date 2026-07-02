@@ -1,0 +1,7 @@
+rag_env/
+__pycache__/
+.env
+database/
+*.pyc
+.vscode/
+.idea/
